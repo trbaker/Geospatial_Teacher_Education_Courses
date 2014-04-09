@@ -1,5 +1,6 @@
-## AGENDA: 9am-1pm
+## Agenda: Geospatial technologies for educators
 April 12, 2014  9:00 am - Noon
+University of Kansas, Edwards Campus
 
 
 Agenda:
@@ -10,8 +11,8 @@ Agenda:
 * BREAK (15 mins)
 * Technology: The Student Data Mapper (Tom, 40 mins)
 * Activity: Collect data and map your Student Data Mapper work (20 mins)
+* Demo: Using standalong GPS files (Steve, 10 mins)
 * Discussion: AGOL Public vs Organization Accounts (Tom, 15 mins)
-* Demo: EasyGPS - for GPX files (Steve, optional)
 * Technology: Advanced Field data collection design (Noon-1:00pm)
 
 
