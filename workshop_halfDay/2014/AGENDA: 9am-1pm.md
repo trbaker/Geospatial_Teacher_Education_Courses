@@ -1,9 +1,9 @@
 ## Agenda: Geospatial technologies for educators
-April 12, 2014  9:00 am - Noon
+*April 12, 2014  9:00 am - Noon;* 
 University of Kansas, Edwards Campus
 
 
-Agenda:
+*Agenda:*
 * CSE Overiew - 10 mins
 * Steve examples - 15 mins
 * Tom examples - 15 mins
@@ -13,7 +13,7 @@ Agenda:
 * Activity: Collect data and map your Student Data Mapper work (20 mins)
 * Demo: Using standalong GPS files (Steve, 10 mins)
 * Discussion: AGOL Public vs Organization Accounts (Tom, 15 mins)
-* Technology: Advanced field data collection design (Noon-1:00pm)
+* Technology: Advanced field data collection design (overrun: Noon-1:00pm)
 
 
 Desktop software for moving GPS to GIS:
@@ -23,3 +23,7 @@ Desktop software for moving GPS to GIS:
 
 Sponsors:
 [KU Center for STEM Learning](http://www.kuscied.org)
+
+Instructors:
+* Steve Obenhaus
+* [Tom Baker] (http://tbaker.com)
