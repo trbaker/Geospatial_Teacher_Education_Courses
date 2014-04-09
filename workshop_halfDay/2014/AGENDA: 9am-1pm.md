@@ -6,12 +6,13 @@ University of Kansas, Edwards Campus
 *Agenda:*
 * CSE Overiew - 10 mins
 * Steve examples - 15 mins
-* Tom examples - 15 mins
+* Tom examples - 10 mins
 * Activity: Sample Data Collection (Steve, 30-40 mins)
 * BREAK (15 mins)
-* Technology: The Student Data Mapper and ArcGIS Online **Public** (Tom, 40 mins)
+* Activity: Craete your free/public ArcGIS Online account (Tom, 5 mins)
+* Technology: The Student Data Mapper and ArcGIS Online **Public** (Tom, 30 mins)
 * Activity: Collect data and map your Student Data Mapper work (20 mins)
-* Demo: Using standalong GPS files (Steve, 10 mins)
+* Demo: Mapping GPX data (Steve, 10 mins)
 * Discussion: AGOL Public vs Organization Accounts (Tom, 15 mins)
 * Technology: Advanced field data collection design (overrun: Noon-1:00pm)
 
