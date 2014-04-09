@@ -6,10 +6,14 @@ Agenda:
 * CSE Overiew - 15 mins
 * Steve examples - 15 mins
 * Tom examples - 15 mins
-* Sampel Data Collection Actvitiy - 30 mins
-* BREAK - 15 mins
-* The Student Data Mapper - 40 mins
-* Advanced Field Data Collection Design - 45 mins
+* Activity: Sample Data Collection (Steve, 30-40 mins)
+* BREAK (15 mins)
+* Technology: The Student Data Mapper (Tom, 40 mins)
+* Activity: Collect data and map your Student Data Mapper work (20 mins)
+* Discussion: AGOL Public vs Organization Accounts (Tom, 15 mins)
+* Technology: Advanced Field data collection design (Noon-1:00pm)
 
 
+
+Sponsors:
 [KU Center for STEM Learning](http://www.kuscied.org)
