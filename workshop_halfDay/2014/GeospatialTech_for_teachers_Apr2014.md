@@ -1,4 +1,4 @@
-## Geospatial technologies for educators workshop
+## Enhancing Student Field Studies with BYOD Technology
 *April 12, 2014  9:00 am - 1:00 pm;* 
 University of Kansas, Edwards Campus, BEST Building, Room 160
 
@@ -7,8 +7,8 @@ University of Kansas, Edwards Campus, BEST Building, Room 160
 * Explore [webmaps] (http://edcommunity.esri.com/software-and-data/web-maps)
 
 **Agenda:**
-** CSE Overiew - 10 mins
-** Steve examples - 15 mins
+* CSE Overiew - 10 mins
+* Steve examples - 15 mins
 * Tom examples - 10 mins
 * Activity: Sample Data Collection (Steve, 30-40 mins)
 * 10:10: BREAK (15 mins)
