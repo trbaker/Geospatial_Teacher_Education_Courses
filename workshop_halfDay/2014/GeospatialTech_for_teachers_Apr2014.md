@@ -6,7 +6,7 @@ University of Kansas, Edwards Campus, BEST Building, Room 160
 * Create a [free, public account at ArcGIS.com] (https://www.arcgis.com/home/createaccount.html). Use an email address that you have access to today.
 * Explore [webmaps] (http://edcommunity.esri.com/software-and-data/web-maps)
 
-
+------------
 **Agenda:**
 
 INTRODUCTION:
