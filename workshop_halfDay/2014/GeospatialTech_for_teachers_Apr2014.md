@@ -6,13 +6,15 @@ University of Kansas, Edwards Campus, BEST Building, Room 160
 * Create a [free, public account at ArcGIS.com] (https://www.arcgis.com/home/createaccount.html). Use an email address that you have access to today.
 * Explore [webmaps] (http://edcommunity.esri.com/software-and-data/web-maps)
 
+
 **Agenda:**
-Introduction:
-* CSE Overiew - 10 mins
-* Steve examples - 15 mins
-* Tom examples - 10 mins
-* Activity: Sample Data Collection (Steve, 30-40 mins)
-* BREAK (15 mins)
+
+* INTRODUCTION:
++ CSE Overiew - 10 mins
++ Steve examples - 15 mins
++ Tom examples - 10 mins
++ Activity: Sample Data Collection (Steve, 30-40 mins)
++ BREAK (15 mins)
 
 CREATING:
 * Activity: Craete your free/public ArcGIS Online account (Tom, 5 mins)
