@@ -2,8 +2,11 @@
 *April 12, 2014  9:00 am - Noon;* 
 University of Kansas, Edwards Campus
 
+**Before the workshop:**
+* Create a [free, public account at ArcGIS.com] (https://www.arcgis.com/home/createaccount.html). Use an email address that you have access to today.
+* Explore [webmaps] (http://edcommunity.esri.com/software-and-data/web-maps)
 
-**Agenda**
+**Agenda:**
 * 9:00: CSE Overiew - 10 mins
 * Steve examples - 15 mins
 * Tom examples - 10 mins
@@ -17,7 +20,7 @@ University of Kansas, Edwards Campus
 * Noon: Technology: Advanced field data collection design (optional, until 1:00pm)
 
 
-Desktop software for moving GPS to GIS:
+Desktop software for moving GPS data to GIS:
 * [EasyGPS] (http://easygps.com) 
 * [MotionX GPS] (https://itunes.apple.com/us/app/motionx-gps/id299949744?mt=8) - for smartphones
 * [DNR Garmin] (http://www.dnr.state.mn.us/mis/gis/tools/arcview/extensions/DNRGarmin/DNRGarmin.html)
