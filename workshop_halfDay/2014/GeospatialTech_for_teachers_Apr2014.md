@@ -9,12 +9,12 @@ University of Kansas, Edwards Campus, BEST Building, Room 160
 
 **Agenda:**
 
-* INTRODUCTION:
-+ CSE Overiew - 10 mins
-+ Steve examples - 15 mins
-+ Tom examples - 10 mins
-+ Activity: Sample Data Collection (Steve, 30-40 mins)
-+ BREAK (15 mins)
+INTRODUCTION:
+* CSE Overiew (Steve, 10 mins)
+* Steve examples (15 mins)
+* Tom examples (10 mins)
+* Activity: Sample Data Collection (Steve, 30-40 mins)
+* BREAK (15 mins)
 
 CREATING:
 * Activity: Craete your free/public ArcGIS Online account (Tom, 5 mins)
@@ -26,6 +26,7 @@ FINISHING TOUCHES:
 * Discussion: AGOL Public vs Organization Accounts (Tom, 10 mins)
 * Technology: Advanced field data collection design (optional, until 1:00pm)
 
+------------
 
 Desktop software for moving GPS data (GPX or CSV files) to GIS
 * [EasyGPS] (http://easygps.com) 
