@@ -7,17 +7,22 @@ University of Kansas, Edwards Campus, BEST Building, Room 160
 * Explore [webmaps] (http://edcommunity.esri.com/software-and-data/web-maps)
 
 **Agenda:**
+Introduction:
 * CSE Overiew - 10 mins
 * Steve examples - 15 mins
 * Tom examples - 10 mins
 * Activity: Sample Data Collection (Steve, 30-40 mins)
-* 10:10: BREAK (15 mins)
+* BREAK (15 mins)
+
+CREATING:
 * Activity: Craete your free/public ArcGIS Online account (Tom, 5 mins)
 * Technology: The Student Data Mapper and ArcGIS Online **Public** (Tom, 30 mins)
-* 11:00: Activity: Collect data and map your Student Data Mapper work (20 mins)
+* Activity: Collect data and map your Student Data Mapper work (20 mins)
+
+FINISHING TOUCHES:
 * Demo: Mapping [GPS data] (https://github.com/trbaker/Geospatial_Teacher_Education_Courses/tree/master/workshop_halfDay/2014/support_files) (Steve, 10 mins)
 * Discussion: AGOL Public vs Organization Accounts (Tom, 10 mins)
-* Noon: Technology: Advanced field data collection design (optional, until 1:00pm)
+* Technology: Advanced field data collection design (optional, until 1:00pm)
 
 
 Desktop software for moving GPS data (GPX or CSV files) to GIS
