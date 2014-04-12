@@ -11,8 +11,7 @@ University of Kansas, Edwards Campus, BEST Building, Room 160
 
 INTRODUCTION:
 * CSE Overiew (Steve, 10 mins)
-* Steve examples (15 mins)
-* Tom examples (10 mins)
+* Field studies examples (Steve & Tom, 15 mins)
 * Activity: Sample Data Collection (Steve, 30-40 mins)
 * BREAK (15 mins)
 
@@ -28,7 +27,7 @@ FINISHING TOUCHES:
 
 ------------
 
-Desktop software for moving GPS data (GPX or CSV files) to GIS
+Software for moving GPS data ([sample GPX or CSV files] (https://github.com/trbaker/Geospatial_Teacher_Education_Courses/tree/master/workshop_halfDay/2014/support_files)) to GIS
 * [EasyGPS] (http://easygps.com) 
 * [MotionX GPS] (https://itunes.apple.com/us/app/motionx-gps/id299949744?mt=8) - for smartphones
 * [DNR Garmin] (http://www.dnr.state.mn.us/mis/gis/tools/arcview/extensions/DNRGarmin/DNRGarmin.html)
